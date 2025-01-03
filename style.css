@@ -28,7 +28,6 @@ nav {
     font-size: 15px;
     z-index: 1;
 }
-
 nav ul {
     display: flex;
     align-items: center;
@@ -38,18 +37,15 @@ nav ul {
     padding: 0px;
     background: #ffffff;
 }
-
 nav ul li {
     list-style: none;
     margin-left: 50px;
     margin-right: 50px;
 }
-
 nav ul li a {
     color: #356c7d;
     font-family: "Playfair Display";
 }
-
 nav ul li img {
 margin-left: 170px;
 }
